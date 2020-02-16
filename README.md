@@ -6,6 +6,6 @@ All the mp3 files located at mp3 folder and this mp3 player has basic functional
 
 You can freely use and modify this code as you like.
 
-https://www.youtube.com/watch?v=fwwYAmi4Hwo
+Watch this demo video here on my channel: https://www.youtube.com/watch?v=fwwYAmi4Hwo
 
 If you like this work, please subscribe and hit like button of this video. Find another free stuffs I share on my YouTube channel.
